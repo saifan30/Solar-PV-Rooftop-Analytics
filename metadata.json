@@ -1,0 +1,6 @@
+{
+  "name": "Solar PV Rooftop Analytics",
+  "description": "Power BI Desktop interactive analytics suite, data model, DAX engine, and performance reports for 5.5kWp Solar PV Rooftop Mini Project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
